@@ -1,0 +1,21 @@
+div button{
+    margin-right: 2em;
+    margin-left: 2em;
+}
+
+div{
+    margin-left: 18em;
+}
+h2{
+    margin-left: 22em;
+}
+a {
+    padding: 1rem;
+    text-decoration: none;
+    margin-left: 2em;
+    margin-top: 10px;
+    display: inline-block;
+    background-color: #e8e8e8;
+    color: #3d3d3d;
+    border-radius: 5px;
+  }

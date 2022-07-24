@@ -1,0 +1,33 @@
+h2{
+    margin-left: 13.5em
+}
+div{
+    margin-left: 20em
+}
+div ul input {
+    padding: .5rem;
+    width: 100%;
+    max-width: 600px;
+    box-sizing: border-box;
+    display: block;
+}
+input {
+    font-size: 1em;
+    padding: .5rem;
+}
+label {
+    color: #435960;
+    font-weight: bold;
+}
+li{
+    margin-left: 18.5em;
+    padding: 1rem;
+    width: 100%;
+    max-width: 600px;
+    box-sizing: 20em;
+    display: block;
+    box-sizing: 15em;
+}
+ul{
+    margin-left: -2em;
+}

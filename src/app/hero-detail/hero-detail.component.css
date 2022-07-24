@@ -1,0 +1,26 @@
+/* HeroDetailComponent's private CSS styles */
+span{
+  margin-left: 20em;
+}
+h2{
+  margin-left: 13.5em;
+}
+a{
+  margin-left:-18em;
+}
+label {
+    margin-left: 20em;
+  }
+  input {
+    font-size: 1em;
+    padding: .7rem;
+  }
+  button {
+    margin-top: 20px;
+    margin-right: .5rem;
+    padding: 1rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    margin-left: 20em;
+  }
+  
